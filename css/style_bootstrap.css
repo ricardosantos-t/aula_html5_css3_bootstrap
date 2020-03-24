@@ -1,0 +1,23 @@
+body {
+
+    background-color: #424042;
+    font-family: sans-serif;
+    color: white;
+}
+
+.navbar {
+
+    background-color: #7C1281;
+
+}
+
+
+h5 {
+
+    padding-top: 15px;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 15px;
+}
